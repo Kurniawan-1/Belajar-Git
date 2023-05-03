@@ -3,3 +3,5 @@ coba 1
 coba 2
 oke
 percobaan pertama
+
+cek conflicts
